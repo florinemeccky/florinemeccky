@@ -2,9 +2,9 @@
 - 👀 I’m interested in programing and networking 
 - 🌱 I’m currently learning front end development and OOP
 - 💞️ I’m looking to collaborate on web development projects
-- 📫 How to reach me [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/florinekoddy)
+- 📫 How to reach me 
 -  +255614886685
-[![Gmail](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:florinmeccky@gmail.com)
+-  [![Gmail](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:florinmeccky@gmail.com)   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/florinekoddy)
 - 😄 Pronouns:He
 - ⚡ Fun fact:still  a beginner who wants to learn 
 
