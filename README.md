@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me 
 -  +255614886685
--  [![Gmail](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:florinmeccky@gmail.com)   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]((https://www.linkedin.com/in/florine-koddy-256714262/))
+-  [![Gmail](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:florinmeccky@gmail.com)   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]((https://www.linkedin.com/in/florine-koddy-256714262))
 - 😄 Pronouns:He
 - ⚡ Fun fact:still  a beginner who wants to learn 
 
