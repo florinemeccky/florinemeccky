@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @florinemeccky
-- 👀 I’m interested in programing 
+- 👀 Junior Software developer
 - 🌱 currently exploring backend development and OOP
 -  I’m looking to collaborate on web development and software projects
 - 📫 How to reach me 
 -  +255614886685
 -  [![Gmail](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:florinmeccky@gmail.com)   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]((https://www.linkedin.com/in/florine-koddy-256714262))
+-  https://bold.pro/my/florine-mkoddy-251008002440
 - 😄 Pronouns:He
 - ⚡ still  a beginner who's keen to learn more
 
