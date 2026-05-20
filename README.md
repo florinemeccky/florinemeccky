@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @florinemeccky
-- 👀 Junior Software developer
+- 👀 Junior Full Stack Software developer
 - 🌱 currently exploring backend development and OOP
 -  I’m looking to collaborate on web development and software projects
 - 📫 How to reach me 
