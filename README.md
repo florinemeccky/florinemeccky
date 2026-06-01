@@ -12,7 +12,7 @@
 
 <br/>
 
-<!-- Social badges -->
+<!-- Social badges-->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Florine%20Koddy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florine-koddy-256714262)
 [![Portfolio](https://img.shields.io/badge/Portfolio-bold.pro-8B5CF6?style=for-the-badge&logo=About.me&logoColor=white)](https://bold.pro/my/florinemeccky-251008002440)
 [![Gmail](https://img.shields.io/badge/Gmail-florinemeccky-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:florinemeccky@gmail.com)
