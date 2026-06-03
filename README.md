@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     ANIMATED HEADER                           -->
+<!--                      ANIMATED HEADER                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Florinemeccky%20&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=16&descColor=a78bfa&animation=fadeIn" alt="Header Banner" width="100%"/>
