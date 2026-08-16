@@ -33,7 +33,6 @@ name        : Florine M. Koddy
 location    : Dar es Salaam, Tanzania 🇹🇿
 degree      : B.Sc. Computer Science — Software Engineering
 institution : Institute of Finance Management (IFM)
-graduation  : 2026 (Expected)
 role        : Junior Full Stack Developer
 focus       : Backend Development · APIs · Software Systems
 status      : Open to Internships · Graduate Trainee Roles · Collaborations
