@@ -153,8 +153,8 @@ A **smart traffic and road mapping concept** built for Tanzanian road networks �
 ## 🎯 Goals & What I'm Looking For
 
 ```
-✅  Internship roles — Software Engineering / Backend / Full Stack
-✅  Graduate Trainee programmes — Tech, Fintech & Banking
+✅  Mentorship roles — Software Engineering / Backend / Full Stack
+✅  programmes — Tech, Fintech & Banking
 ✅  Open source collaboration on real-world projects
 ✅  Opportunities to improve backend architecture skills
 ✅  Connecting with engineers, mentors & tech communities
@@ -166,7 +166,7 @@ I'm especially interested in roles where I can **learn from senior engineers**, 
 
 ## 🧠 A Bit More About Me
 
-- 🎓 Studying **Software Engineering** at IFM, Dar es Salaam — graduating 2026
+- 🎓 **Software Engineering** graduate at IFM, Dar es Salaam
 - 💡 Passionate about building systems that are **useful, fast, and maintainable**
 - 🔧 Also experienced in **PC hardware, diagnostics & troubleshooting**
 - 🌍 Based in **Tanzania** — open to remote, hybrid, and in-person opportunities
