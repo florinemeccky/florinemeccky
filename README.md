@@ -38,7 +38,7 @@ focus       : Backend Development · APIs · Software Systems
 status      : Open to Internships · Graduate Trainee Roles · Collaborations
 ```
 
-I'm a passionate **Computer Science student** at the Institute of Finance Management, specialising in Software Engineering. I build web and mobile applications with a growing focus on backend systems, object-oriented design, and scalable software architecture.
+I'm a passionate **Computer Science Graduate** from the Institute of Finance Management, specialising in Software Engineering. I build web and mobile applications with a growing focus on backend systems, object-oriented design, and scalable software architecture.
 
 I care about writing **clean, purposeful code** — and I'm on a mission to build software that solves real problems for real people, starting from Tanzania.
 
